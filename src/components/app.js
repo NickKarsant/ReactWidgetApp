@@ -74,7 +74,7 @@ const options = [
 
 
 
-export default () => {
+export default App() => {
   const [selected, setSelected] = useState(options[0]);
 
 
